@@ -1,0 +1,17 @@
+[
+    {
+        "question": "Hva er hovedstaden i Norge?",
+        "options": ["Oslo", "Stockholm", "København", "Helsinki"],
+        "answer": "Oslo"
+    },
+    {
+        "question": "Hva er verdens største øy?",
+        "options": ["Madagaskar", "Borneo", "Grønland", "Java"],
+        "answer": "Grønland"
+    },
+    {
+        "question": "Hva er hovedstaden i Frankrike?",
+        "options": ["London", "Roma", "Paris", "Madrid"],
+        "answer": "Paris"
+    }
+]
