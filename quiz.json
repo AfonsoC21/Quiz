@@ -1,17 +1,17 @@
 [
     {
-        "question": "Hva er hovedstaden i Norge?",
-        "options": ["Oslo", "Stockholm", "København", "Helsinki"],
-        "answer": "Oslo"
+        "spørsmål": "Hva er hovedstaden i Norge?",
+        "alternativer": ["Oslo", "Stockholm", "København", "Helsinki"],
+        "svar": "Oslo"
     },
     {
-        "question": "Hva er verdens største øy?",
-        "options": ["Madagaskar", "Borneo", "Grønland", "Java"],
-        "answer": "Grønland"
+        "spørsmål": "Hva er verdens største øy?",
+        "alternativer": ["Madagaskar", "Borneo", "Grønland", "Java"],
+        "svar": "Grønland"
     },
     {
-        "question": "Hva er hovedstaden i Frankrike?",
-        "options": ["London", "Roma", "Paris", "Madrid"],
-        "answer": "Paris"
+        "spørsmål": "Hva er hovedstaden i Frankrike?",
+        "alternativer": ["London", "Roma", "Paris", "Madrid"],
+        "svar": "Paris"
     }
 ]
