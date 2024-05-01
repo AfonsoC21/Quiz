@@ -1,32 +1,20 @@
-[
-    {
-        "question": "Hva er hovedstaden i Norge?",
-        "answer": "Oslo",
-        "alternatives": [
-            "Bergen",
-            "Trondheim",
-            "Oslo",
-            "Stavanger"
-        ]
-    },
-    {
-        "question": "Hva er verdens høyeste fjell?",
-        "answer": "Mount Everest",
-        "alternatives": [
-            "Kilimanjaro",
-            "Mount Everest",
-            "Denali",
-            "Mont Blanc"
-        ]
-    },
-    {
-        "question": "Hva er verdens største øy?",
-        "answer": "Grønland",
-        "alternatives": [
-            "Madagaskar",
-            "Grønland",
-            "New Zealand",
-            "Island"
-        ]
-    }
-]
+{
+    "spørsmål": "Hva er en vanlig metode for å redusere filstørrelsen til lydfiler?",
+    "svar": "Komprimering"
+},
+{
+    "spørsmål": "Hva er prosessen med å konvertere analoge lydsignaler til digitale data kalt?",
+    "svar": "Digitalisering"
+},
+{
+    "spørsmål": "Hva er menneskets evne til å oppfatte lyd gjennom øret?",
+    "svar": "Hørsel"
+},
+{
+    "spørsmål": "Hva er forkortelsen for de tre primærfargene i moderne fotografi?",
+    "svar": "RGB"
+},
+{
+    "spørsmål": "Hva er en permanent gjengivelse av et bilde ved hjelp av lys, optikk og lysfølsomme materiale?",
+    "svar": "Foto"
+}
